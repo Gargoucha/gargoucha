@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Chayma 👋
 
-<!--
-**Gargoucha/gargoucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Engineer | Firmware, RTOS & Edge AI**
 
-Here are some ideas to get you started:
+I build reliable embedded firmware, robotics systems, and hardware-in-the-loop tooling—bridging bare-metal/RTOS microcontrollers with Linux edge platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Core Tech Stack
+
+- **Languages:** C, C++, Python, Assembly, VHDL
+- **RTOS & Embedded Linux:** FreeRTOS, Zephyr RTOS, Embedded Linux, Yocto Project
+- **Robotics & Edge:** ROS 2, micro-ROS, NVIDIA Jetson, STM32, NXP
+- **Hardware & Debug:** Altium Designer, STM32CubeIDE, GDB, OpenOCD
+- **DevOps & CI/CD:** Git, GitHub Actions, Docker
+
+---
+
+### 🚀 Featured Work
+
+- **Autonomous Delivery Robot:** STM32 + FreeRTOS + micro-ROS paired with ROS 2 & SLAM on NVIDIA Jetson Nano.
+- **ARM TrustZone Security Demos:** Secure LED control and challenge-response authentication on STM32U5.
+- **Remote Debugging & CI Workflows:** Automated firmware testing and remote GDB debugging pipelines.
+
+---
+
+### 📫 Connect With Me
+
+- **GitHub:** [@Chayma123-hub](https://github.com/Chayma123-hub)
+- **Email:** chayma.gargouche@gmail.com
